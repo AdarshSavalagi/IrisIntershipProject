@@ -8,7 +8,6 @@ This Flutter project is a machine learning internship project designed for postu
 - **Name:** MiniProject
 - **Description:** This is a machine learning internship project focused on real-time posture detection.
 - **Version:** 1.0.0+1
-- **Publish To:** None (not specified)
 - **Flutter SDK:** >=3.2.6 <4.0.0
 
 ## Dependencies
