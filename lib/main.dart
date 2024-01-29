@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'machine_learning/image.dart';
+import 'Screens/home_screen.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  runApp(MaterialApp(
+  runApp(const MaterialApp(
     home: YourCameraWidget(),
   ));
 }
