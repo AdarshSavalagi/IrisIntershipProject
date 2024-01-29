@@ -1,0 +1,27 @@
+name: miniproject
+description: "This is Machine learning internship project"
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.6 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  tflite_flutter: ^0.10.4
+  cupertino_icons: ^1.0.2
+  image: ^4.1.4
+  camera: ^0.10.5+9
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/
